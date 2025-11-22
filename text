@@ -1,0 +1,14 @@
+socratic-protocol/
+├── README.md
+├── docs/
+│   ├── PROTOCOL.md
+│   └── PHILOSOPHY.md
+├── tests/
+│   ├── boundary_test.json
+│   ├── antidote_claim.json
+│   └── evaluator.py
+├── examples/
+│   └── full_conversation.md
+└── implementation/
+    ├── socratic_bench.py
+    └── response_analyzer.py
