@@ -34,7 +34,7 @@ The Socratic Protocol uses structured dialogues to probe:
 - Capacity for epistemic humility
 - Resistance to strategic deception
 - Alignment property preservation
-
+"Unlike Socratic tutoring models, this protocol is not for teaching humans, but for stress-testing AI models through philosophical dialogue to evaluate their resilience and strategic reasoning."
 ## Quick Start
 ```bash
 git clone https://github.com/[username]/socratic-protocol
