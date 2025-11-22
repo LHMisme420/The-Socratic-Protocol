@@ -40,3 +40,16 @@ The Socratic Protocol uses structured dialogues to probe:
 git clone https://github.com/[username]/socratic-protocol
 cd socratic-protocol
 python tests/evaluator.py --model your-model-name
+# The Socratic Protocol 🧠
+
+A framework for testing AI resilience, strategic reasoning, and alignment properties through philosophical dialogue.
+
+## Quick Start
+
+```bash
+# Install
+pip install -r requirements.txt
+python setup.py develop
+
+# Run demo
+python examples/basic_demo.py
